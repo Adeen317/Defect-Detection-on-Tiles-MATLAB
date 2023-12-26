@@ -9,10 +9,10 @@ This project implements a comprehensive quality inspection system for ceramic ti
 ## Overview
 The inspection system is designed to execute the following sequence of image processing steps:
 
-###### Grayscale Conversion: Conversion of the input image to grayscale to simplify subsequent processing stages.
-###### Thresholding: Application of thresholding techniques to segment the image and identify potential areas of interest.
-###### Inversion: Inverting the image to enhance the visibility of defects and facilitate clearer detection.
-###### Bounding Region Analysis: Employing bounding region analysis to precisely locate and highlight defects on the ceramic tile image.
+- Grayscale Conversion: Conversion of the input image to grayscale to simplify subsequent processing stages.
+- Thresholding: Application of thresholding techniques to segment the image and identify potential areas of interest.
+- Inversion: Inverting the image to enhance the visibility of defects and facilitate clearer detection.
+- Bounding Region Analysis: Employing bounding region analysis to precisely locate and highlight defects on the ceramic tile image.
 ## Features
 GUI Interface: An intuitive and user-friendly interface for seamless interaction with the system.
 Image Processing Filters: Incorporation of filters like grayscale, thresholding, and inversion to enhance defect identification.
