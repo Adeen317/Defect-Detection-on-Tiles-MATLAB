@@ -4,7 +4,7 @@
 
 ![GUI2](https://github.com/Adeen317/Defect-Detection-on-Tiles-MATLAB/assets/112985225/b30fb307-7948-485b-91fb-57b34fd65ef6)
 
-This project implements a comprehensive quality inspection system for ceramic tiles using MATLAB. The system includes a Graphical User Interface (GUI) that employs various image processing filters such as grayscale conversion, thresholding, inversion, and bounding region analysis to detect and highlight defects on ceramic tile images.
+This project implements a detailed quality inspection system for ceramic tiles using MATLAB. The system includes a Graphical User Interface (GUI) that employs various image processing filters such as grayscale conversion, thresholding, inversion, and bounding region analysis to detect and highlight defects on ceramic tile images.
 
 ## Overview
 The inspection system is designed to execute the following sequence of image processing steps:
